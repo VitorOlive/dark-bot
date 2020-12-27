@@ -1,4 +1,4 @@
-const help = (prefix) => {
+const help = (prefix) => {Vitinn né vidahh
 	return `> *Sticker Commands* <
 command : *${prefix}sticker* or *${prefix}stiker*
 desc : converter imagem / gif / vídeo em adesivo
@@ -59,7 +59,7 @@ desc : ative o modo simi no grupo
 usage : *${prefix}simih 1* to activate simi mode and *${prefix}simih 0* para desativar o modo simi
 note : Este comando pode ser usado se você for um admin\n`
 }
-
+vitinn domina
 exports.help = help
 
 
